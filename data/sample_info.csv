@@ -1,0 +1,11 @@
+﻿sample_name,genotype,accession,treatment
+VV_Veh1,WT,GSM3434703,Vehicle
+VV_Veh3,WT,GSM3434704,Vehicle
+VV_E21,WT,GSM3434705,Estradiol
+VV_E2.2,WT,GSM3434706,Estradiol
+VM_Veh1,BDNF_Met,GSM3434707,Vehicle
+VM_Veh2,BDNF_Met,GSM3434708,Vehicle
+VM_Veh3,BDNF_Met,GSM3434709,Vehicle
+VM_E2.1,BDNF_Met,GSM3434710,Estradiol
+VM_E2.2,BDNF_Met,GSM3434711,Estradiol
+VM_E2.3,BDNF_Met,GSM3434712,Estradiol
